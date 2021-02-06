@@ -1,0 +1,185 @@
+2021年1月23日21时43分48秒|获取到加速信息：{}
+2021年1月23日21时45分39秒|获取到加速信息：{}
+2021年1月23日21时54分44秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"12","iMaxLvlRealDays":"2.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"58291","iMqing":"0","iNextLevelDay":"22","iNoHideOnline":"1","iNoHideOnlineTime":"36013","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"0","iRealDays":"1.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"415","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月23日21时54分44秒|需要运动加速
+2021年1月23日21时54分45秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年1月23日21时54分45秒|需要微视加速
+2021年1月23日21时54分47秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月23日21时54分47秒|需要管家加速
+2021年1月23日21时54分47秒|获取到管家关键加速信息
+2021年1月23日21时54分51秒|管家加速 -> 已启动管家加速
+2021年1月23日22时10分49秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"14","iMaxLvlRealDays":"3.1","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"58291","iMqing":"0","iNextLevelDay":"21","iNoHideOnline":"1","iNoHideOnlineTime":"36013","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.3","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.1","iTotalActiveDay":"416","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月23日22时10分49秒|需要管家加速
+2021年1月23日22时10分49秒|获取到管家关键加速信息
+2021年1月23日22时12分10秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"17","iMaxLvlRealDays":"3.1","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"58291","iMqing":"0","iNextLevelDay":"21","iNoHideOnline":"1","iNoHideOnlineTime":"36013","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.3","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.1","iTotalActiveDay":"416","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月23日22时12分10秒|需要管家加速
+2021年1月23日22时12分10秒|获取到管家关键加速信息
+2021年1月23日22时12分14秒|管家加速 -> 已启动管家加速
+2021年1月24日6时1分3秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"14","iMaxLvlRealDays":"2.2","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"0","iMobileQQOnline":"1","iMobileQQOnlineTime":"21864","iMqing":"0","iNextLevelDay":"20","iNoHideOnline":"1","iNoHideOnlineTime":"21620","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"0","iRealDays":"1.4","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.2","iTotalActiveDay":"417","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月24日6时1分3秒|需要游戏加速
+2021年1月24日6时1分3秒|游戏加速 -> 已获取0.2天活跃天加速。
+2021年1月24日6时1分3秒|需要运动加速
+2021年1月24日6时1分3秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年1月24日6时1分3秒|需要微视加速
+2021年1月24日6时1分5秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月24日6时1分5秒|需要管家加速
+2021年1月24日6时1分5秒|获取到管家关键加速信息
+2021年1月24日6时1分8秒|管家加速 -> 已启动管家加速
+2021年1月24日12时1分3秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"14","iMaxLvlRealDays":"3.1","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"43743","iMqing":"0","iNextLevelDay":"19","iNoHideOnline":"1","iNoHideOnlineTime":"36041","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.3","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.1","iTotalActiveDay":"418","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月24日12时1分3秒|需要管家加速
+2021年1月24日12时1分3秒|获取到管家关键加速信息
+2021年1月24日12时1分6秒|管家加速 -> 已获取0.2天活跃天加速。
+2021年1月24日21时29分55秒|获取到加速信息：{"QzoneVisitor":"1","WeishiVideoview":"1","iBaseDays":"1.7","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"16","iMaxLvlRealDays":"4.2","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"58291","iMqing":"0","iNextLevelDay":"18","iNoHideOnline":"1","iNoHideOnlineTime":"36041","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"1","iQQLevel":"18","iQQSportStep":"1","iRealDays":"3.0","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.3","iTotalActiveDay":"419","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月25日6时1分47秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"18","iMaxLvlRealDays":"2.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"21876","iMqing":"0","iNextLevelDay":"17","iNoHideOnline":"1","iNoHideOnlineTime":"21622","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"0","iRealDays":"1.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"420","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月25日6时1分47秒|需要运动加速
+2021年1月25日6时1分47秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年1月25日6时1分47秒|需要微视加速
+2021年1月25日6时1分48秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月25日6时1分48秒|需要管家加速
+2021年1月25日6时1分49秒|获取到管家关键加速信息
+2021年1月25日6时1分51秒|管家加速 -> 已启动管家加速
+2021年1月25日12时1分47秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"12","iMaxLvlRealDays":"2.6","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"43751","iMqing":"0","iNextLevelDay":"17","iNoHideOnline":"1","iNoHideOnlineTime":"36016","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"1","iRealDays":"1.8","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.6","iTotalActiveDay":"420","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月25日12时1分47秒|需要微视加速
+2021年1月25日12时1分48秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月25日12时1分48秒|需要管家加速
+2021年1月25日12时1分48秒|获取到管家关键加速信息
+2021年1月25日12时1分51秒|管家加速 -> 已获取0.2天活跃天加速。
+2021年1月26日6时1分46秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"16","iMaxLvlRealDays":"2.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"21892","iMqing":"0","iNextLevelDay":"14","iNoHideOnline":"1","iNoHideOnlineTime":"21620","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"0","iRealDays":"1.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"423","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月26日6时1分46秒|需要运动加速
+2021年1月26日6时1分47秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年1月26日6时1分47秒|需要微视加速
+2021年1月26日6时1分48秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月26日6时1分48秒|需要管家加速
+2021年1月26日6时1分48秒|获取到管家关键加速信息
+2021年1月26日6时1分51秒|管家加速 -> 已启动管家加速
+2021年1月26日12时1分47秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"405","iMaxLvlRealDays":"3.1","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"43722","iMqing":"0","iNextLevelDay":"14","iNoHideOnline":"1","iNoHideOnlineTime":"36013","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.3","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.1","iTotalActiveDay":"423","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月26日12时1分47秒|需要管家加速
+2021年1月26日12时1分47秒|获取到管家关键加速信息
+2021年1月26日12时1分50秒|管家加速 -> 已获取0.2天活跃天加速。
+2021年1月26日22时10分40秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"368","iMaxLvlRealDays":"3.3","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"58291","iMqing":"0","iNextLevelDay":"13","iNoHideOnline":"1","iNoHideOnlineTime":"36013","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"1","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.5","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.3","iTotalActiveDay":"424","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月26日22时11分51秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"387","iMaxLvlRealDays":"3.3","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"58291","iMqing":"0","iNextLevelDay":"13","iNoHideOnline":"1","iNoHideOnlineTime":"36013","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"1","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.5","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.3","iTotalActiveDay":"424","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月26日22时14分43秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"441","iMaxLvlRealDays":"3.3","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"58291","iMqing":"0","iNextLevelDay":"13","iNoHideOnline":"1","iNoHideOnlineTime":"36013","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"1","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.5","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.3","iTotalActiveDay":"424","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月27日6时1分32秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"15","iMaxLvlRealDays":"2.2","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"0","iMobileQQOnline":"1","iMobileQQOnlineTime":"21897","iMqing":"0","iNextLevelDay":"12","iNoHideOnline":"1","iNoHideOnlineTime":"21621","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"0","iRealDays":"1.4","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.2","iTotalActiveDay":"425","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月27日6时1分32秒|需要游戏加速
+2021年1月27日6时1分32秒|游戏加速 -> 已获取0.2天活跃天加速。
+2021年1月27日6时1分32秒|需要运动加速
+2021年1月27日6时1分32秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年1月27日6时1分32秒|需要微视加速
+2021年1月27日6时1分34秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月27日6时1分34秒|需要管家加速
+2021年1月27日6时1分34秒|获取到管家关键加速信息
+2021年1月27日6时1分36秒|管家加速 -> 已启动管家加速
+2021年1月27日12时1分32秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"18","iMaxLvlRealDays":"3.1","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"43740","iMqing":"0","iNextLevelDay":"11","iNoHideOnline":"1","iNoHideOnlineTime":"36015","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.3","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.1","iTotalActiveDay":"426","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月27日12时1分32秒|需要管家加速
+2021年1月27日12时1分32秒|获取到管家关键加速信息
+2021年1月27日12时1分35秒|管家加速 -> 已获取0.2天活跃天加速。
+2021年1月27日18时13分59秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"79","iMaxLvlRealDays":"3.3","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"58291","iMqing":"0","iNextLevelDay":"11","iNoHideOnline":"1","iNoHideOnlineTime":"36015","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"1","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.5","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.3","iTotalActiveDay":"426","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月28日6时1分52秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"15","iMaxLvlRealDays":"2.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"21876","iMqing":"0","iNextLevelDay":"9","iNoHideOnline":"1","iNoHideOnlineTime":"21680","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"0","iRealDays":"1.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"428","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月28日6时1分52秒|需要运动加速
+2021年1月28日6时1分53秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年1月28日6时1分53秒|需要微视加速
+2021年1月28日6时1分54秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月28日6时1分54秒|需要管家加速
+2021年1月28日6时1分54秒|获取到管家关键加速信息
+2021年1月28日6时1分56秒|管家加速 -> 已启动管家加速
+2021年1月28日12时1分52秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"16","iMaxLvlRealDays":"3.1","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"43750","iMqing":"0","iNextLevelDay":"9","iNoHideOnline":"1","iNoHideOnlineTime":"36014","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.3","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.1","iTotalActiveDay":"428","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月28日12时1分52秒|需要管家加速
+2021年1月28日12时1分52秒|获取到管家关键加速信息
+2021年1月28日12时1分56秒|管家加速 -> 已获取0.2天活跃天加速。
+2021年1月28日18时46分31秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"16","iMaxLvlRealDays":"3.3","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"58291","iMqing":"0","iNextLevelDay":"8","iNoHideOnline":"1","iNoHideOnlineTime":"36014","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"1","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.5","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.3","iTotalActiveDay":"429","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月29日6时1分22秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"19","iMaxLvlRealDays":"2.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"21889","iMqing":"0","iNextLevelDay":"7","iNoHideOnline":"1","iNoHideOnlineTime":"21622","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"0","iRealDays":"1.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"430","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月29日6时1分22秒|需要运动加速
+2021年1月29日6时1分23秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年1月29日6时1分23秒|需要微视加速
+2021年1月29日6时1分24秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月29日6时1分24秒|需要管家加速
+2021年1月29日6时1分24秒|获取到管家关键加速信息
+2021年1月29日6时1分27秒|管家加速 -> 已启动管家加速
+2021年1月29日12时1分22秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"19","iMaxLvlRealDays":"3.1","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"43757","iMqing":"0","iNextLevelDay":"6","iNoHideOnline":"1","iNoHideOnlineTime":"36015","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"1","iRealDays":"2.3","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.1","iTotalActiveDay":"431","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月29日12时1分22秒|需要管家加速
+2021年1月29日12时1分22秒|获取到管家关键加速信息
+2021年1月29日12时1分25秒|管家加速 -> 已获取0.2天活跃天加速。
+2021年1月30日6时1分22秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"0.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"11","iMaxLvlRealDays":"0.7","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"0","iMobileQQOnlineTime":"20040","iMqing":"0","iNextLevelDay":"5","iNoHideOnline":"1","iNoHideOnlineTime":"21471","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"0","iRealDays":"0.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"432","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月30日6时1分22秒|需要运动加速
+2021年1月30日6时1分23秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年1月30日6时1分23秒|需要微视加速
+2021年1月30日6时1分24秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月30日6时1分24秒|需要管家加速
+2021年1月30日6时1分24秒|获取到管家关键加速信息
+2021年1月30日6时1分27秒|管家加速 -> 已启动管家加速
+2021年1月30日12时1分22秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"14","iMaxLvlRealDays":"2.6","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"41910","iMqing":"0","iNextLevelDay":"4","iNoHideOnline":"1","iNoHideOnlineTime":"36043","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"1","iRealDays":"1.8","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.6","iTotalActiveDay":"433","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月30日12时1分22秒|需要微视加速
+2021年1月30日12时1分23秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月30日12时1分23秒|需要管家加速
+2021年1月30日12时1分24秒|获取到管家关键加速信息
+2021年1月30日12时1分27秒|管家加速 -> 已获取0.2天活跃天加速。
+2021年1月31日6时1分22秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"14","iMaxLvlRealDays":"2.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"21859","iMqing":"0","iNextLevelDay":"2","iNoHideOnline":"1","iNoHideOnlineTime":"21621","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"0","iRealDays":"1.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"435","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年1月31日6时1分22秒|需要运动加速
+2021年1月31日6时1分23秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年1月31日6时1分23秒|需要微视加速
+2021年1月31日6时1分24秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年1月31日6时1分24秒|需要管家加速
+2021年1月31日6时1分24秒|获取到管家关键加速信息
+2021年1月31日6时1分27秒|管家加速 -> 已启动管家加速
+2021年2月2日12时11分30秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"0.0","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"15","iMaxLvlRealDays":"0.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"0","iMobileQQOnlineTime":"0","iMqing":"0","iNextLevelDay":"1","iNoHideOnline":"0","iNoHideOnlineTime":"0","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"18","iQQSportStep":"0","iRealDays":"0.4","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"436","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月2日12时11分30秒|需要运动加速
+2021年2月2日12时11分31秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年2月2日12时11分31秒|需要微视加速
+2021年2月2日12时11分34秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年2月2日12时11分34秒|需要管家加速
+2021年2月2日12时11分34秒|获取到管家关键加速信息
+2021年2月2日12时11分37秒|管家加速 -> 已启动管家加速
+2021年2月2日12时14分57秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"0.0","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"14","iMaxLvlRealDays":"1.1","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"0","iMobileQQOnlineTime":"0","iMqing":"0","iNextLevelDay":"43","iNoHideOnline":"0","iNoHideOnlineTime":"0","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"19","iQQSportStep":"1","iRealDays":"1.1","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.1","iTotalActiveDay":"437","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月2日12时14分57秒|需要管家加速
+2021年2月2日12时14分57秒|获取到管家关键加速信息
+2021年2月2日12时15分|管家加速 -> 已启动管家加速
+2021年2月3日6时1分47秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"15","iMaxLvlRealDays":"2.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"21887","iMqing":"0","iNextLevelDay":"40","iNoHideOnline":"1","iNoHideOnlineTime":"21622","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"19","iQQSportStep":"0","iRealDays":"1.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"440","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月3日6时1分47秒|需要运动加速
+2021年2月3日6时1分47秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年2月3日6时1分47秒|需要微视加速
+2021年2月3日6时1分49秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年2月3日6时1分49秒|需要管家加速
+2021年2月3日6时1分49秒|获取到管家关键加速信息
+2021年2月3日6时1分52秒|管家加速 -> 已启动管家加速
+2021年2月3日12时1分47秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"18","iMaxLvlRealDays":"3.1","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"43751","iMqing":"0","iNextLevelDay":"39","iNoHideOnline":"1","iNoHideOnlineTime":"36017","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"19","iQQSportStep":"1","iRealDays":"2.3","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.1","iTotalActiveDay":"441","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月3日12时1分47秒|需要管家加速
+2021年2月3日12时1分47秒|获取到管家关键加速信息
+2021年2月3日12时1分50秒|管家加速 -> 已获取0.2天活跃天加速。
+2021年2月4日6时1分47秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"12","iMaxLvlRealDays":"2.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"21895","iMqing":"0","iNextLevelDay":"38","iNoHideOnline":"1","iNoHideOnlineTime":"21621","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"19","iQQSportStep":"0","iRealDays":"1.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"442","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月4日6时1分47秒|需要运动加速
+2021年2月4日6时1分47秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年2月4日6时1分47秒|需要微视加速
+2021年2月4日6时1分49秒|微视加速 -> 已获取0.5天活跃天加速。
+2021年2月4日6时1分49秒|需要管家加速
+2021年2月4日6时1分49秒|获取到管家关键加速信息
+2021年2月4日6时1分52秒|管家加速 -> 已启动管家加速
+2021年2月4日12时1分47秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"1","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"16","iMaxLvlRealDays":"3.1","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"43722","iMqing":"0","iNextLevelDay":"37","iNoHideOnline":"1","iNoHideOnlineTime":"36047","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"19","iQQSportStep":"1","iRealDays":"2.3","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"1.1","iTotalActiveDay":"443","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月4日12时1分47秒|需要管家加速
+2021年2月4日12时1分47秒|获取到管家关键加速信息
+2021年2月4日12时1分50秒|管家加速 -> 已获取0.2天活跃天加速。
+2021年2月5日6时1分47秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"18","iMaxLvlRealDays":"2.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"21894","iMqing":"0","iNextLevelDay":"35","iNoHideOnline":"1","iNoHideOnlineTime":"21683","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"19","iQQSportStep":"0","iRealDays":"1.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"445","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月5日6时1分47秒|需要运动加速
+2021年2月5日6时1分48秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年2月5日6时1分48秒|需要微视加速
+2021年2月5日6时1分50秒|需要管家加速
+2021年2月5日6时1分50秒|获取到管家关键加速信息
+2021年2月5日6时1分53秒|管家加速 -> 已启动管家加速
+2021年2月5日12时1分47秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"13","iMaxLvlRealDays":"2.6","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"43731","iMqing":"0","iNextLevelDay":"35","iNoHideOnline":"1","iNoHideOnlineTime":"36048","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"19","iQQSportStep":"1","iRealDays":"1.8","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.6","iTotalActiveDay":"445","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月5日12时1分47秒|需要微视加速
+2021年2月5日12时1分49秒|需要管家加速
+2021年2月5日12时1分49秒|获取到管家关键加速信息
+2021年2月5日12时1分53秒|管家加速 -> 已获取0.2天活跃天加速。
+2021年2月5日12时11分28秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"13","iMaxLvlRealDays":"2.8","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"45571","iMqing":"0","iNextLevelDay":"35","iNoHideOnline":"1","iNoHideOnlineTime":"36048","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"1","iQQLevel":"19","iQQSportStep":"1","iRealDays":"2.0","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.8","iTotalActiveDay":"445","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月5日12时11分28秒|需要微视加速
+2021年2月6日6时1分16秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"12","iMaxLvlRealDays":"2.4","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"21880","iMqing":"0","iNextLevelDay":"33","iNoHideOnline":"1","iNoHideOnlineTime":"21622","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"19","iQQSportStep":"0","iRealDays":"1.6","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.4","iTotalActiveDay":"447","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月6日6时1分16秒|需要运动加速
+2021年2月6日6时1分17秒|运动加速 -> 打卡成功，已获取0.2天活跃天加速。
+2021年2月6日6时1分17秒|需要微视加速
+2021年2月6日6时1分18秒|需要管家加速
+2021年2月6日6时1分18秒|获取到管家关键加速信息
+2021年2月6日6时1分21秒|管家加速 -> 已启动管家加速
+2021年2月6日12时1分16秒|获取到加速信息：{"QzoneVisitor":"0","WeishiVideoview":"0","iBaseDays":"1.2","iBigClubGrowth":"0","iBigClubLevel":"0","iBigClubSpeed":"0","iBigClubVipFlag":"0","iCmshowActive":"0","iCostMs":"20","iMaxLvlRealDays":"2.6","iMaxLvlTotalDays":"4.4","iMedal":"1","iMobileGameOnline":"1","iMobileQQOnline":"1","iMobileQQOnlineTime":"43751","iMqing":"0","iNextLevelDay":"33","iNoHideOnline":"1","iNoHideOnlineTime":"36045","iPCQQOnline":"0","iPCQQOnlineTime":"0","iPCSafeOnline":"0","iQQLevel":"19","iQQSportStep":"1","iRealDays":"1.8","iSVip":"0","iSpeedType":"0","iSqq":"0","iSqqLevel":"0","iSqqSpeedRate":"0","iSvrDays":"0.6","iTotalActiveDay":"447","iTotalDays":"3.7","iVip":"0","iVipLevel":"0","iVipSpeedRate":"10","iYearBigClubFlag":"0","iYearVip":"0","sFaceUrl":"http:\/\/thirdqq.qlogo.cn\/g?b=sdk&k=v8yQFNzcaCAic8ic97YCbMwA&s=100&t=1610370379","sNickName":"星语·萝希娅特"}
+2021年2月6日12时1分16秒|需要微视加速
+2021年2月6日12时1分17秒|需要管家加速
+2021年2月6日12时1分18秒|获取到管家关键加速信息
+2021年2月6日12时1分21秒|管家加速 -> 已获取0.2天活跃天加速。
