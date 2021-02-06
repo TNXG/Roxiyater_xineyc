@@ -5,4 +5,6 @@
 
 # 小栗子2.9.x，且是星语最后一个使用的小栗子框架版本，3.x的付费版本我们坚决不会使用
 
-堆糖糖可以把“聊天记录备份”的研发进度稍微放快么awa
+## 下载地址（如果嫌Github太慢了）
+### [蓝奏云密码:TNXGNB](https://tnxg.lanzous.com/iYeLzlei7vg)
+### [QQ乐网盘密码:TNXGNB](https://yun.qqlecloud.cn/s/Nezsz)
